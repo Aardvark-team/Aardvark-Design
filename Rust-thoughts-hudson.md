@@ -10,6 +10,8 @@ Here's what matches what I had developed conceptually:
 - In place pattern matching. In Rust, that's `if let`.
 - Compile-time safety and type checking.
 - Using structs for classes.
+- Immutable default.
+- Traits & implementations.
 
 There are still many things that I don't like about Rust, however:
 
